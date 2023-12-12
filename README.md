@@ -1,7 +1,6 @@
-### Hi there 👋
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiibolt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiibolt)](https://github.com/anuraghazra/github-readme-stats)
+### Hello!~ 👋
+I'm a prolific full-stack developer, a jack of all trades but master of none. I specialize in Quantum Computing.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=5&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hiibolt/hiibolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
