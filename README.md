@@ -1,5 +1,5 @@
 ### Hello!~ 👋
-- ⚡ I'm a prolific full-stack developer, a jack of all trades but master of none.
+- ⚡ I'm a prolific full-stack developer who doesn't stop learning. I consider myself a jack of all trades but master of none.
 - 🔭 I specialize in Quantum Computing, Functional Programming, and Applied Mathematics.
 - 🌱 I'm currently learning Kernel Development, Containerization, and Cryptography.
 
