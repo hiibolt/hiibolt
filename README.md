@@ -1,7 +1,7 @@
 ### Hello!~ 👋
 - ⚡ I'm a prolific full-stack developer who doesn't stop learning, I am a jack of all trades but master of none.
 - 🔭 I specialize in Quantum Computing, Functional Programming, and Applied Mathematics.
-- 🌱 I'm currently learning Kernel Development, Containerization, and Cryptography.
+- 🌱 I'm currently learning Kernel Development, Containerization, and Q-Proof Cryptography.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
