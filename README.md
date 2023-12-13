@@ -3,7 +3,7 @@
 - 🔭 I specialize in Quantum Computing, Functional Programming, and Applied Mathematics.
 - 🌱 I'm currently learning Kernel Development, Containerization, and Cryptography.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=5&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hiibolt/hiibolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
