@@ -1,6 +1,6 @@
 ## Hello!~ 👋
 - ⚡ I'm a prolific full-stack developer who doesn't stop learning, I'm a jack of all trades but master of none.
-- 🔭 I specialize in Quantum Computing, Functional Programming, and Applied Mathematics.
+- 🔭 I specialize in Quantum Computing, Functional Programming, and Applied Mathematics. 
 - 🌱 I'm currently learning Kernel Development, Containerization, and Q-Proof Cryptography.
 ### More
 - 🌟 '23 VEX State Champion and Worlds Semifinalist - here's [our codebase](https://github.com/hiibolt/355V-Development)
