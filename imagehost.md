@@ -23,3 +23,4 @@
 ![d1b465a88a39add48bb4196e6339aa0ddd07b9e8_2_1024x495](https://github.com/hiibolt/hiibolt/assets/91273156/353dea2e-f436-4289-9a10-37f9a23e3ee6)
 ![81590418-acc0ce00-93b2-11ea-8eec-06c3b1959613-1280605354](https://github.com/hiibolt/hiibolt/assets/91273156/b3cf1ffd-874b-403c-9716-dce4d4f03ae0)
 ![Screenshot 2024-06-28 180102](https://github.com/hiibolt/hiibolt/assets/91273156/c23db081-bb6e-4b0c-8786-4a818403fe64)
+![1600X1200](https://github.com/user-attachments/assets/2b0b5dd0-0124-4b03-b62b-72da4b06cfaa)
