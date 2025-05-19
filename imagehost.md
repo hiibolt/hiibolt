@@ -25,3 +25,4 @@
 ![Screenshot 2024-06-28 180102](https://github.com/hiibolt/hiibolt/assets/91273156/c23db081-bb6e-4b0c-8786-4a818403fe64)
 ![1600X1200](https://github.com/user-attachments/assets/2b0b5dd0-0124-4b03-b62b-72da4b06cfaa)
 ![image](https://github.com/user-attachments/assets/c0a27d28-41ec-4778-a321-72a4b580e8d1)
+![image](https://github.com/user-attachments/assets/2874c45f-032d-4a1d-84d0-eb00b7c947cd)
