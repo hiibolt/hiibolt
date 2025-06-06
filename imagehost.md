@@ -29,3 +29,4 @@
 ![image](https://github.com/user-attachments/assets/ae26f3f4-bd4f-43c8-b981-1f2226fca02f)
 ![image](https://github.com/user-attachments/assets/0bc459fb-404f-41e7-bf01-3ad14110b04a)
 ![image](https://github.com/user-attachments/assets/9e02a146-dbfa-44f3-ba95-3966f525bd1e)
+![senko-rust-programming-language-banner](https://github.com/user-attachments/assets/0f08945c-c120-434b-92be-7790a8ba3a0b)
