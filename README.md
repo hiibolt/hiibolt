@@ -9,8 +9,9 @@
 - 🌟 Rhythm Game Enthusiast - I love PIU19 and osu! - [my stats](https://osu.ppy.sh/users/18734275)
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=transparent&hide_progress=true)" />
+  <img src="http://some_place.com/image.png](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=transparent&hide_progress=true)" />
 </p>
+
 <!--
 **hiibolt/hiibolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
