@@ -9,8 +9,8 @@
 - 🌟 Rhythm Game Enthusiast - I love PIU19 and osu! - [my stats](https://osu.ppy.sh/users/18734275)
 ### Stats
 <p align="center">
-  <img width=425 height=170 src="https://leetcard.jacoblin.cool/hiibolt?theme=dark&border=0" />
-  <img width=425 height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=dark&hide_progress=true&hide_border=true&bg_color=101010" />
+  <img width=300 height=120 src="https://leetcard.jacoblin.cool/hiibolt?theme=dark&border=0" />
+  <img width=300 height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=dark&hide_progress=true&hide_border=true&bg_color=101010" />
 </p>
 
 <!--
