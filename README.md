@@ -7,9 +7,10 @@
 - 🌟 I've been into programming since I was 7 - [my very first project!](https://www.khanacademy.org/computer-programming/button-function/6752085105180672)
 - 🌟 Speed Typist, I'm learning Semimak, an alternate layout - [my progress](https://monkeytype.com/profile/BoltR6)
 - 🌟 Rhythm Game Enthusiast - I love PIU19 and osu! - [my stats](https://osu.ppy.sh/users/18734275)
-
+### Stats
 <p align="center">
-  <img src="http://some_place.com/image.png](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=transparent&hide_progress=true)" />
+  <img width=425 height=170 src="https://leetcard.jacoblin.cool/hiibolt?theme=dark&border=0" />
+  <img width=425 height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=dark&hide_progress=true&hide_border=true&bg_color=101010" />
 </p>
 
 <!--
