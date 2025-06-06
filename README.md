@@ -8,7 +8,9 @@
 - 🌟 Speed Typist, I'm learning Semimak, an alternate layout - [my progress](https://monkeytype.com/profile/BoltR6)
 - 🌟 Rhythm Game Enthusiast - I love PIU19 and osu! - [my stats](https://osu.ppy.sh/users/18734275)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=transparent&hide_progress=true)" />
+</p>
 <!--
 **hiibolt/hiibolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
