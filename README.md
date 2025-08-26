@@ -1,9 +1,3 @@
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0f08945c-c120-434b-92be-7790a8ba3a0b" width=275>
-</p>
-
 ## Hello!~ 👋
 - ⚡ I'm a prolific full-stack developer who doesn't stop learning, I'm a jack of all trades but master of none.
 - ⚡ I specialize in Quantum Computing, Functional Programming, and Applied Mathematics. 
