@@ -1,7 +1,7 @@
 ## Hello!~ 👋
-- ⚡ I'm a prolific full-stack developer who doesn't stop learning, I'm a jack of all trades but master of none.
-- ⚡ I specialize in Quantum Computing, Functional Programming, and Applied Mathematics. 
-- ⚡ I'm currently learning Kernel Development, GPU Parallelism, and Message Passing.
+- ⚡ I'm a prolific developer who doesn't stop learning - a self-proclaimed polymath
+- ⚡ I like Quantum Computing, Functional Programming, and Applied Mathematics!
+- ⚡ I'm learning Kernel Development, GPU Parallelism, and MP/MPI
 ### More
 - 🌟 '23 VEX State Champion and Worlds Semifinalist - here's [our codebase](https://github.com/hiibolt/355V-Development)
 - 🌟 I've been into programming since I was 7 - [my very first project!](https://www.khanacademy.org/computer-programming/button-function/6752085105180672)
