@@ -5,7 +5,7 @@
 ### More
 - 🌟 '23 VEX State Champion and Worlds Semifinalist - here's [our codebase](https://github.com/hiibolt/355V-Development)
 - 🌟 I've been into programming since I was 7 - [my very first project!](https://www.khanacademy.org/computer-programming/button-function/6752085105180672)
-- 🌟 Speed Typist, I'm learning Semimak, an alternate layout - [my progress](https://monkeytype.com/profile/BoltR6)
+- 🌟 Speed Typist, I'm learning Semimak, an alternate layout - [my progress](https://monkeytype.com/profile/hiibolt_semimak)
 - 🌟 Rhythm Game Enthusiast - I love PIU19 and osu! - [my stats](https://osu.ppy.sh/users/18734275)
 ### Stats
 <p align="center">
