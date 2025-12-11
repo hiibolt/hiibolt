@@ -7,11 +7,6 @@
 - 🌟 I've been into programming since I was 7 - [my very first project!](https://www.khanacademy.org/computer-programming/button-function/6752085105180672)
 - 🌟 Speed Typist, I'm learning Semimak, an alternate layout - [my progress](https://monkeytype.com/profile/hiibolt_semimak)
 - 🌟 Rhythm Game Enthusiast - I love PIU19 and osu! - [my stats](https://osu.ppy.sh/users/18734275)
-### Stats
-<p align="center">
-  <img width=400 height=160 src="https://leetcard.jacoblin.cool/hiibolt?theme=dark&border=0" />
-  <img width=400 height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiibolt&langs_count=6&theme=dark&hide_progress=true&hide_border=true&bg_color=101010" />
-</p>
 
 <!--
 **hiibolt/hiibolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
