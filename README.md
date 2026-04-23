@@ -17,9 +17,9 @@
 <h3><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="18" /> &nbsp;what i'm up to</h3>
  
 <table>
-  <tr height="70"><td valign="top">💼</td><td><b>SWE Intern</b><br/><sub>@ <a href="https://www.epic.com/">Epic Systems</a></sub></td></tr>
-  <tr height="70"><td valign="top">🧠</td><td><b>ML / Full-Stack / DevOps</b><br/><sub>@ <a href="https://www.wang-zt.com/ai-leads">NIU AI-LEADS</a></sub></td></tr>
-  <tr height="70"><td valign="top">⚙️</td><td><b>Transpiler Engineer</b><br/><sub>@ <a href="https://www.niu.edu/crcd/index.shtml">NIU CRCD</a></sub></td></tr>
+  <tr height="70"><td><b>SWE Intern</b><br/><sub>@ <a href="https://www.epic.com/">Epic Systems</a></sub></td></tr>
+  <tr height="70"><td><b>ML / Full-Stack / DevOps</b><br/><sub>@ <a href="https://www.wang-zt.com/ai-leads">NIU AI-LEADS</a></sub></td></tr>
+  <tr height="70"><td><b>Transpiler Engineer</b><br/><sub>@ <a href="https://www.niu.edu/crcd/index.shtml">NIU CRCD</a></sub></td></tr>
 </table>
 </td>
 <td width="50%" valign="top">
