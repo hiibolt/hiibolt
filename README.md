@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/321518bc-3958-47d8-b24e-27fc13bb7824" alt="Senko-san reading The Rust Programming Language" width="380" />
+  <img src="https://github.com/user-attachments/assets/321518bc-3958-47d8-b24e-27fc13bb7824" alt="Senko-san reading The Rust Programming Language" width="320" />
 </div>
 <!-- TAGLINE -->
 <h1 align="center">⚡ hi, i'm bolt</h1>
@@ -12,7 +12,8 @@
 </p>
 <br />
 <!-- TWO COLUMN: WHAT I DO + FUN FACTS -->
-<table width="100%">
+<div align="center">
+<table width="900">
 <tr>
 <td width="50%" valign="top">
 <h3><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="18" /> &nbsp;what i'm up to</h3>
@@ -35,16 +36,17 @@
 </td>
 </tr>
 </table>
+</div>
 <br />
 <!-- TECH STACK -->
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-16.svg" width="18" /> &nbsp;my toolkit
+<h3 align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-16.svg" width="18" /> &nbsp;my toolkit</h3>
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nix,python,svelte,typescript,react,bevy,docker,linux,vim,bash,latex&theme=light" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=rust,nix,python,svelte,typescript,react,bevy,docker,kubernetes,linux,vim,bash,latex&theme=light" alt="tech stack" />
 </p>
 <br />
 <!-- STATS -->
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-16.svg" width="18" /> &nbsp;the numbers
+<h3 align="center"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-16.svg" width="18" /> &nbsp;the numbers</h3>
  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hiibolt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFF8E7&title_color=8B2A3F&text_color=3A2419&icon_color=F5A623&ring_color=E8869B" alt="github stats" />
