@@ -9,11 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=hiibolt&style=flat-square&color=F5A623&labelColor=3A2419&label=visitors" alt="profile views"/>
   <img src="https://img.shields.io/badge/happy-to--help-F5A623?style=flat-square&labelColor=3A2419" alt="happy to help"/>
 </p>
-<!-- TWO COLUMN: WHAT I DO + FUN FACTS -->
+<!-- THREE COLUMN: WHO I AM + WHAT I DO + HOW I DO IT -->
 <div align="center">
 <table width="900">
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="middle">
+<h3><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="18" /> &nbsp;who i am</h3>
+
+<p>Third-year CS + Math undergrad with a systems-first lean - I love Rust, Kubernetes, NixOS, and any other technology that's ahead of its time.</p>
+
+<p>When I'm not coding, you'll catch me listening to music, reading, learning, or chasing adrenaline.</p>
+
+</td>
+<td width="35%" valign="top">
 <h3><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="18" /> &nbsp;what i'm up to</h3>
  
 <table>
@@ -22,7 +30,7 @@
   <tr height="70"><td><b>Transpiler Engineer</b><br/><sub>@ <a href="https://www.niu.edu/crcd/index.shtml">NIU CRCD</a></sub></td></tr>
 </table>
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 <h3><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/sparkle-fill-16.svg" width="18" /> &nbsp;how i do it</h3>
  
 <table>
