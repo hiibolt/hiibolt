@@ -4,9 +4,7 @@
 </div>
 <!-- TAGLINE -->
 <h1 align="center">⚡ hi, i'm bolt</h1>
-<p align="center"><i>"Stagnation kills the weak, extropy fuels the strong."</i></p>
 <p align="center">
-  <a href="https://hiibolt.com"><img src="https://img.shields.io/badge/hiibolt.com-8B2A3F?style=flat-square&logo=githubpages&logoColor=FFF8E7" alt="website"/></a>
   <img src="https://img.shields.io/badge/forever-curious-F5A623?style=flat-square&labelColor=3A2419" alt="forever curious"/>
   <img src="https://komarev.com/ghpvc/?username=hiibolt&style=flat-square&color=F5A623&labelColor=3A2419&label=visitors" alt="profile views"/>
 </p>
