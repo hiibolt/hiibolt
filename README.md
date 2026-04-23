@@ -16,9 +16,11 @@
 <td width="30%" valign="middle">
 <h3><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="18" /> &nbsp;who i am</h3>
 
-<p>Third-year CS + Math undergrad with a systems-first lean - I love Rust, Kubernetes, NixOS, and any other technology ahead of its time.</p>
+<p>Third-year CS + Math undergrad / homelabber. I love Rust, Kubernetes, NixOS - any tech ahead of its time.</p>
 
-<p>When I'm not coding, you'll catch me listening to music, reading, learning, or chasing adrenaline.</p>
+<p>If not coding, I'm probably listening to music, reading, or chasing adrenaline.</p>
+
+<sub>🦊 Thanks for stopping by~ 🦊</sub>
 
 </td>
 <td width="35%" valign="top">
