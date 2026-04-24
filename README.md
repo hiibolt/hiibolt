@@ -23,7 +23,7 @@
 <sub>🦊 Thanks for stopping by~ 🦊</sub>
 
 </td>
-<td width="35%" valign="top">
+<td width="900" valign="top">
 <h3><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="18" /> &nbsp;what i'm up to</h3>
  
 <table>
@@ -32,7 +32,7 @@
   <tr height="70"><td><b>Transpiler Engineer</b><br/><sub>@ <a href="https://www.niu.edu/crcd/index.shtml">NIU CRCD</a></sub></td></tr>
 </table>
 </td>
-<td width="35%" valign="top">
+<td width="900" valign="top">
 <h3><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/sparkle-fill-16.svg" width="18" /> &nbsp;how i do it</h3>
  
 <table>
